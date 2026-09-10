@@ -71,6 +71,77 @@ It demonstrates my ability to use a CRM system to organize customer information,
 
 ---
 
+### Project 2: Freshdesk Customer Support & Ticket Management Workflow
+
+This project demonstrates my hands-on practice using Freshdesk to manage customer support tickets, respond to customer inquiries, document support activities, and maintain an organized ticket resolution workflow.
+
+#### Tool Used
+
+- Freshdesk
+
+#### Skills Demonstrated
+
+- Customer Support
+- Ticket Management
+- Customer Inquiry Handling
+- Ticket Prioritization
+- Ticket Status Management
+- Customer Communication
+- Email Support
+- Technical Troubleshooting
+- Internal Note Documentation
+- Customer Follow-Up
+- Issue Resolution
+- Support Workflow Management
+
+#### Customer Support Activities
+
+**1. Ticket Management**
+
+Created and managed customer support tickets covering technical issues, laptop problems, login problems, refund requests, product information requests, and device troubleshooting.
+
+**2. Customer Communication**
+
+Responded to customer inquiries professionally through Freshdesk while providing clear information, troubleshooting guidance, and appropriate next steps.
+
+**3. Ticket Status Management**
+
+Used ticket statuses such as Open, Pending, and Waiting on Customer to accurately track the progress of customer requests and support cases.
+
+**4. Internal Documentation**
+
+Added private notes to document troubleshooting activities, investigation results, customer follow-up requirements, and resolution details for internal support tracking.
+
+**5. Technical Support**
+
+Handled simulated technical support cases involving laptop overheating, login problems, device issues, and other customer-reported technical difficulties.
+
+**6. Customer Follow-Up**
+
+Documented follow-up actions and monitored unresolved cases to ensure customer issues were properly addressed through to resolution.
+
+**7. Support Prioritization**
+
+Reviewed customer requests based on urgency and issue type to support appropriate prioritization and timely responses.
+
+#### Customer Support Workflow
+
+Customer Inquiry → Ticket Creation → Issue Classification → Prioritization → Customer Response → Internal Documentation → Follow-Up → Resolution
+
+#### Portfolio Evidence
+
+The screenshots in this repository provide visual evidence of my hands-on Freshdesk practice, including ticket management, customer communication, technical support, ticket status tracking, internal notes, and customer issue resolution.
+
+> **Note:** All customer names, email addresses, ticket information, and support scenarios shown in this project are fictional practice data created for training and portfolio purposes.
+
+#### Project Outcome
+
+This project strengthened my practical understanding of Freshdesk, customer support operations, ticket management, technical support communication, internal documentation, follow-up procedures, and structured issue resolution.
+
+It demonstrates my ability to use a help desk platform to organize customer requests, communicate with customers, document support activities, track ticket progress, and maintain an organized customer support workflow.
+
+---
+
 ## Future Projects
 
 Additional IT Support and Customer Service projects will be added to this portfolio as I complete more practical training and hands-on exercises.
