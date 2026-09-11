@@ -1,147 +1,238 @@
-# IT Support & Customer Service Portfolio
+# Okafor Chukwu Ugbaja — CRM & Customer Support Portfolio
 
-## Portfolio Overview
+## Professional Overview
 
-This portfolio showcases my hands-on IT Support and Customer Service training through practical projects and simulated workplace exercises.
+Welcome to my professional portfolio.
 
-It demonstrates my ability to work with customer support tools, manage customer information, document support activities, handle customer inquiries, track requests, perform follow-ups, and maintain organized support workflows.
+I am a **CRM & Customer Support Specialist** with practical experience using CRM, customer support, project management, collaboration, productivity, and automation platforms.
 
-## Projects
+This portfolio demonstrates hands-on projects and workflows I completed using modern business technology tools.
 
-### Project 1: HubSpot CRM Customer Support & Sales Workflow
+My focus is on helping businesses improve customer experience, organize customer information, manage support requests, streamline workflows, and increase operational efficiency.
 
-This project demonstrates my hands-on practice using HubSpot CRM to manage customer records, customer interactions, email support activities, deal management, task management, and follow-up activities.
+---
 
-#### Tool Used
+## Core Areas of Expertise
+
+- Customer Support
+- CRM Management
+- Customer Relationship Management
+- Technical Customer Support
+- Customer Communication
+- Ticket Management
+- Customer Follow-Up
+- Workflow Management
+- Task Management
+- Sales Pipeline Management
+- Process Documentation
+- Workflow Automation
+- Remote Team Collaboration
+- Digital File Management
+
+---
+
+# Portfolio Projects
+
+## 1. HubSpot CRM
+
+**Focus:** Customer Relationship Management, Contact Management, Deal Management & Sales Pipeline
+
+This project demonstrates practical experience managing customer records, tracking customer activities, documenting customer communication, managing deals, creating follow-ups, and organizing CRM workflows.
+
+👉 **[View HubSpot CRM Project](HubSpot-CRM/)**
+
+---
+
+## 2. Freshdesk
+
+**Focus:** Customer Support, Ticket Management, Troubleshooting & Issue Resolution
+
+This project demonstrates practical customer support workflows involving ticket creation, customer communication, troubleshooting, issue resolution, ticket management, and support documentation.
+
+👉 **[View Freshdesk Project](Freshdesk/)**
+
+---
+
+## 3. Slack
+
+**Focus:** Team Communication & Remote Collaboration
+
+This project demonstrates practical use of Slack for workplace communication, direct messaging, collaboration, and organized team interaction.
+
+👉 **[View Slack Project](Slack/)**
+
+---
+
+## 4. Trello
+
+**Focus:** Task Management, Workflow Organization & Project Tracking
+
+This project demonstrates the use of Trello to organize tasks, manage workflow stages, track responsibilities, and maintain visibility across ongoing work.
+
+👉 **[View Trello Project](Trello/)**
+
+---
+
+## 5. Monday.com
+
+**Focus:** Customer Support Workflow & Work Management
+
+This project demonstrates how Monday.com can be used to organize customer support requests, assign responsibilities, manage priorities, track deadlines, and document resolutions.
+
+👉 **[View Monday.com Project](Monday.com/)**
+
+---
+
+## 6. Zapier
+
+**Focus:** Workflow Automation & Application Integration
+
+This project demonstrates practical automation workflows connecting platforms such as Freshdesk, Trello, HubSpot, and Slack.
+
+The project includes automated data transfer, trigger and action configuration, field mapping, testing, and workflow execution.
+
+👉 **[View Zapier Automation Project](Zapier/)**
+
+---
+
+## 7. ClickUp
+
+**Focus:** Project Management, Collaboration & Productivity
+
+This project demonstrates practical experience with ClickUp's communication and productivity features, including direct messaging, collaboration, and Clips.
+
+👉 **[View ClickUp Project](ClickUp/)**
+
+---
+
+## 8. Google Drive
+
+**Focus:** Cloud File Management & Document Organization
+
+This project demonstrates practical experience organizing business files, customer documents, folders, and cloud-based information using Google Drive.
+
+👉 **[View Google Drive Project](Google-Drive/)**
+
+---
+
+# Tools & Platforms
+
+### CRM & Customer Support
 
 - HubSpot CRM
-
-#### Skills Demonstrated
-
-- Customer Support
-- Email Support
-- CRM Administration
-- Customer & Contact Management
-- Customer Record Management
-- Customer Inquiry Handling
-- Activity Logging
-- Deal Management
-- Task Management
-- Follow-Up Management
-- Case Documentation
-- Customer Communication
-
-#### Project Activities
-
-**1. Customer & Contact Management**
-
-Created and managed customer records in HubSpot CRM, including contact information, customer roles, lifecycle stages, and lead status.
-
-**2. Email Support**
-
-Practiced handling customer support emails, documenting customer requests, and maintaining communication records within the CRM.
-
-**3. CRM Activity Tracking**
-
-Recorded and reviewed customer activities, including emails, notes, calls, tasks, and other customer interactions.
-
-**4. Deal Management**
-
-Created and managed customer deals while updating deal stages and tracking customer purchasing activities.
-
-**5. Follow-Up Management**
-
-Created follow-up tasks to ensure customer requests and sales opportunities were properly tracked and addressed.
-
-#### Customer Support Workflow
-
-Customer inquiry → Contact record → Customer interaction → Documentation → Deal/Support activity → Follow-up → Resolution
-
-#### Portfolio Evidence
-
-The screenshots in this repository provide visual evidence of my hands-on practice using HubSpot CRM for customer relationship management, customer support activities, activity tracking, deal management, and follow-up workflows.
-
-> **Note:** All customer names, contact information, and records shown in this project are fictional practice data created for training and portfolio purposes.
-
-#### Project Outcome
-
-This project strengthened my practical understanding of HubSpot CRM, customer support workflows, CRM administration, customer communication, activity tracking, deal management, documentation, and follow-up processes.
-
-It demonstrates my ability to use a CRM system to organize customer information, manage customer interactions, document activities, track opportunities, and maintain an organized customer support workflow.
-
----
-
-### Project 2: Freshdesk Customer Support & Ticket Management Workflow
-
-This project demonstrates my hands-on practice using Freshdesk to manage customer support tickets, respond to customer inquiries, document support activities, and maintain an organized ticket resolution workflow.
-
-#### Tool Used
-
 - Freshdesk
 
-#### Skills Demonstrated
+### Communication & Collaboration
 
-- Customer Support
-- Ticket Management
-- Customer Inquiry Handling
-- Ticket Prioritization
-- Ticket Status Management
-- Customer Communication
-- Email Support
-- Technical Troubleshooting
-- Internal Note Documentation
-- Customer Follow-Up
-- Issue Resolution
-- Support Workflow Management
+- Slack
+- Microsoft Teams
+- Loom
 
-#### Customer Support Activities
+### Project & Task Management
 
-**1. Ticket Management**
+- Trello
+- Monday.com
+- ClickUp
+- Asana
 
-Created and managed customer support tickets covering technical issues, laptop problems, login problems, refund requests, product information requests, and device troubleshooting.
+### Automation
 
-**2. Customer Communication**
+- Zapier
 
-Responded to customer inquiries professionally through Freshdesk while providing clear information, troubleshooting guidance, and appropriate next steps.
+### Cloud Productivity
 
-**3. Ticket Status Management**
-
-Used ticket statuses such as Open, Pending, and Waiting on Customer to accurately track the progress of customer requests and support cases.
-
-**4. Internal Documentation**
-
-Added private notes to document troubleshooting activities, investigation results, customer follow-up requirements, and resolution details for internal support tracking.
-
-**5. Technical Support**
-
-Handled simulated technical support cases involving laptop overheating, login problems, device issues, and other customer-reported technical difficulties.
-
-**6. Customer Follow-Up**
-
-Documented follow-up actions and monitored unresolved cases to ensure customer issues were properly addressed through to resolution.
-
-**7. Support Prioritization**
-
-Reviewed customer requests based on urgency and issue type to support appropriate prioritization and timely responses.
-
-#### Customer Support Workflow
-
-Customer Inquiry → Ticket Creation → Issue Classification → Prioritization → Customer Response → Internal Documentation → Follow-Up → Resolution
-
-#### Portfolio Evidence
-
-The screenshots in this repository provide visual evidence of my hands-on Freshdesk practice, including ticket management, customer communication, technical support, ticket status tracking, internal notes, and customer issue resolution.
-
-> **Note:** All customer names, email addresses, ticket information, and support scenarios shown in this project are fictional practice data created for training and portfolio purposes.
-
-#### Project Outcome
-
-This project strengthened my practical understanding of Freshdesk, customer support operations, ticket management, technical support communication, internal documentation, follow-up procedures, and structured issue resolution.
-
-It demonstrates my ability to use a help desk platform to organize customer requests, communicate with customers, document support activities, track ticket progress, and maintain an organized customer support workflow.
+- Google Drive
+- Google Workspace
 
 ---
 
-## Future Projects
+# Key Skills
 
-Additional IT Support and Customer Service projects will be added to this portfolio as I complete more practical training and hands-on exercises.
+### Customer Support
+
+- Customer communication
+- Ticket management
+- Troubleshooting
+- Issue resolution
+- Customer follow-up
+- Customer relationship management
+- Support documentation
+
+### CRM
+
+- Contact management
+- Customer data organization
+- Deal management
+- Sales pipeline tracking
+- Customer activity tracking
+- CRM workflow management
+
+### Productivity & Workflow
+
+- Task management
+- Workflow organization
+- Process documentation
+- Team collaboration
+- Remote-work coordination
+
+### Automation
+
+- Workflow automation
+- Trigger and action configuration
+- Application integration
+- Data mapping
+- Automation testing
+- Process optimization
+
+---
+
+# My Approach
+
+I approach customer support and CRM operations with a focus on:
+
+**Organization → Communication → Follow-Up → Resolution → Customer Experience**
+
+I believe effective customer support requires accurate documentation, clear communication, timely follow-up, and structured workflows.
+
+---
+
+# Portfolio Purpose
+
+This portfolio was created to demonstrate my practical ability to use modern business technology tools in real-world customer support, CRM, workflow management, collaboration, and automation scenarios.
+
+Each project contains supporting screenshots and documentation demonstrating the practical work completed.
+
+---
+
+# Remote Work Capabilities
+
+I am comfortable working in remote environments that require:
+
+- Independent task management
+- Digital communication
+- CRM usage
+- Customer support platforms
+- Cloud-based documentation
+- Team collaboration
+- Workflow management
+- Time management
+- Clear written communication
+- Consistent follow-up
+
+---
+
+# Contact
+
+**Okafor Chukwu Ugbaja**
+
+**CRM & Customer Support Specialist**
+
+Open to remote opportunities in:
+
+- Customer Support
+- CRM Support
+- Customer Success
+- Technical Customer Support
+- CRM Operations
+- Customer Service
+- Support Coordination
